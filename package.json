@@ -1,0 +1,19 @@
+{
+  "name": "udemy_nodejs_helloworld",
+  "version": "12.16.2",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokedison/NodeJS-Hello-World.git"
+  },
+  "author": "Chi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokedison/NodeJS-Hello-World/issues"
+  },
+  "homepage": "https://github.com/kokedison/NodeJS-Hello-World#readme"
+}
